@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there👋, I'm Rumman Ahmar 👩‍💻 </h1>
+<h1 align='center'> Hi there👋, I'm Rumman Ahmar 👨‍💻 </h1>
 
 <p align='center'>
 A software developer from India who loves to solve real-life problems with technology! I like working on large datasets and I started to explore the software industry field when I was 14 and created my first website at the same age since then, I have been engaged in the software industry but officially started my professional journey in 2020.
