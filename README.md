@@ -5,8 +5,10 @@ An experience Python developer from India, who loves to translate business requi
 </p>
 
 <p align='center'>
+  <a href="https://medium.com/@rummanahmar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/rummanahmar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>   </a>&nbsp;
-  <a href="mailto:rummanahmar@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="mailto:rummanahmar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 </p>
 
 # Programming Languages
